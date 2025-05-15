@@ -53,6 +53,6 @@ The sales analysis reveals that Adventure Works has a profitable product portfol
 
 DASHBOARD
 
-<a href="https://github.com/Priya1864/ADVENTURE-WORKS-SALES-ANALYSIS/blob/main/ADVENTURE%20SUMMARY.png">"DETAILED DASHBOARD"</a>
+<a href="https://github.com/Priya1864/ADVENTURE-WORKS-SALES-ANALYSIS/blob/main/ADVENTURE%20SUMMARY.png">"TIME ANALYSIS DASHBOARD"</a>
 
-<a href="https://github.com/Priya1864/ADVENTURE-WORKS-SALES-ANALYSIS/blob/main/ADVENTURE%20SUMMARY%202.png">"TIME ANALYSIS DASHBOARD"</a>
+<a href="https://github.com/Priya1864/ADVENTURE-WORKS-SALES-ANALYSIS/blob/main/ADVENTURE%20SUMMARY%202.png">"DETAILED DASHBOARD"</a>

@@ -51,3 +51,8 @@ Utilize the insight that weekdays drive most sales by running promotions or laun
 Conclusions:
 The sales analysis reveals that Adventure Works has a profitable product portfolio dominated by premium pricing. Customer demographics and geographic markets play a critical role in driving revenue and profit, with distinct time-based sales patterns. These insights can guide strategic decisions to enhance sales performance, optimize marketing efforts, and increase overall profitability.
 
+DASHBOARD
+
+<a href="https://github.com/Priya1864/ADVENTURE-WORKS-SALES-ANALYSIS/blob/main/ADVENTURE%20SUMMARY.png">"DETAILED DASHBOARD"</a>
+
+<a href="https://github.com/Priya1864/ADVENTURE-WORKS-SALES-ANALYSIS/blob/main/ADVENTURE%20SUMMARY%202.png">"TIME ANALYSIS DASHBOARD"</a>

@@ -4,7 +4,7 @@
 The primary objective of these dashboards is to analyze the sales performance of Adventure Works across multiple dimensions — including product profitability, customer demographics, time periods, and geographic locations. The analysis aims to identify top-performing products, customer segments, and key factors affecting revenue and profit, thereby enabling data-driven business decisions to optimize sales strategies.
 
 # Tools Used:
-The dashboards appear to be created using Power BI, as indicated by the visual style, interactive filters, and analytical charts commonly associated with this tool.
+The dashboards appear to be created using Excel , as indicated by the visual style, interactive filters, and analytical charts commonly associated with this tool.
 
 # Insights:
 Product Performance:
